@@ -1,0 +1,202 @@
+@media (max-width:550px) {
+    
+      body{
+        border: 10px solid;
+      }
+      /* header start  */
+      .media_header {
+        display: none;
+      }
+      .main{
+        height: 250px;
+        padding: 10px 40px;
+      }
+      .main_img {
+        height: 300px;
+
+      }
+      
+      .main_content {
+        top: 100px;
+        left: 10px;
+      }
+      .main_content h1 {
+        font-size: 28px;
+        line-height: 32px;
+      }
+      
+      .main_content p {
+        margin: 10px 0px;
+      }
+      .content_logo {
+        font-size: 16px;
+        margin-top: 20px;
+      }
+      .content_logo i {
+        padding-right: 20px;
+        font-size: 18px;
+      }
+      
+      /* main_content End  */
+      
+      /* about start  */
+      
+      .about {
+        margin: 0px;
+        width: 100%;
+        padding: 40px;
+      }
+      .about h2 {
+        font-size: 26px;
+        padding-bottom: 10px;
+        margin: 10px 0px;
+      }
+      .designer {
+        height: auto;
+        display: block;
+        padding: 0px;
+        margin: 0px;
+       }
+      .chirag_image {
+        width: 100%;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+      }
+      .detail {
+        padding: 10px 40px;
+        margin: 0px;
+      }
+      .personal {
+        display: block;
+      }
+      .personal div{
+        padding: 5px 0px;
+      }      
+      /* about :end  */
+      
+      /* skill start  */
+      .main_skill {
+        height: auto;
+      }
+      
+      .skill_about {
+        margin-bottom: 20px;
+      }
+      .about h2 {
+        font-size: 26px;
+        padding-bottom: 10px;
+      }
+      
+      .skills {
+        display: block;
+        margin: 0px;
+        padding: 0px 40px;
+      }
+      .skill_sub {
+        width: 100%;
+      }
+      .skill_sub input {
+        width: 100%;
+        padding: 0px;
+        height: 50px;
+      }
+      
+      .skill_sub h4 {
+        color: #45505b;
+        font-size: 12px;
+        padding-top: 10px;
+      }
+      
+      /* resume  start */
+      .resume {
+        margin: 0px;
+        padding: 0px 40px;
+        text-align: center;
+      }
+      .resume_main {
+        margin: 20px 0px;
+        height: 380px;
+        border: 1px solid;
+        background-size: contain;
+      }
+      
+      /* resume end  */
+      .project{
+        margin: 0px;
+        padding: 0px 40px;
+      }
+      .pro_main{
+        display: block;
+      }
+      .flexpro{
+        height: 200px;
+      }
+      .gridpro{
+        height: 200px;
+        margin: 15px 0px;
+      }
+      .bootpro{
+        height: 200px;
+
+      }
+      
+
+      /* contect  */
+      .contact {
+        margin: 10px 0px;
+
+      }
+      .contact_con {
+        display: block;
+        padding: 0px 40px;
+      }
+      .contact h2 {
+        font-size: 20px;
+        padding-bottom: 10px;
+        margin: 0px;
+      }
+      .c_l {
+        width: 100%;
+        padding: 0px;
+        display: grid;
+        grid-template-columns: 2fr 6fr;
+        column-gap: 10px;
+      }
+      
+      .c_logo {
+        margin: 5px;
+        font-size: 24px;
+      }
+      .name_email .name {
+        width: 100%;
+        height: 30px;
+        margin: 5px 0px;
+      }
+      .name_email .subject {
+        width: 100%;
+        height: 30px;
+        margin: 0px;
+      }
+      .name_email .message {
+        width: 100%;
+        height: 60px;
+        margin: 5px 0px;
+      }
+      .c_r button {
+        margin: 10px 0px;
+        width: auto;
+        padding: 8px 10px;
+        font-size: 16px;
+      }
+      
+      /* footer start  */      
+      footer {
+        margin: 20px 0px;
+        padding: 0px 40px;
+      }
+      .c_icons i {
+        margin: 15px 0px;
+        padding: 10px;
+      }     
+}

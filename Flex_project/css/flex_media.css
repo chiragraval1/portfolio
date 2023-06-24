@@ -1,0 +1,330 @@
+@media (max-width: 992px ) {
+    
+}
+
+@media (max-width:768px) {
+    
+}
+
+@media (max-width:576px) {
+   .address{
+    width: 100%;
+    text-align: right;
+   }
+    .search{
+        display: none;
+    }
+
+    
+    /* navigation start  */
+    .centerlogo{
+        top: -30px;
+        left: 5%;
+    }
+    .one{
+        display: none;
+    }
+    .sreach_m{
+        display: block;
+        font-size: 22px;
+        width: auto;
+        padding: 10px;
+        border-radius: 50%;
+        background: black;
+        color: white;
+    }
+    .menu_mid{
+        display: block;
+        font-size: 30px;
+        padding: 10px;
+    }
+
+    /* navigation end   */
+        
+
+    /* slider start  */
+
+    /* slider end  */
+    /* hot deal strat  */
+    .deal{
+        width: 100%;
+        display: flex;
+    }
+    .deal_left{
+        width: 50%;
+        height: auto;
+    }
+    .deal_right{
+        width: 50%;
+        height: auto;
+    }
+    
+    /* hot deal strat  */
+    .deal{
+        width: 100%;
+        display: block;
+    }
+    .deal_left{
+        width: 100%;
+        height: 300px;
+        background: url(../img/img-2.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .deal_right{
+        width: 100%;
+        margin: auto;
+        padding: 60px;
+    }
+    .button1{
+        margin: 20px 0px 0px 120px;
+    }
+    /* hot deal end  */
+
+    
+ /* products start  */
+ .products{
+    display: block;
+ }
+ .main{
+    width: 100%;
+    margin: 30px;
+ }
+ .dis{
+    left: 40px;
+    top: 0px;
+ }
+ .pro_img .icons{
+    width: 50%;
+ }
+ .pro_img .icons i{
+    font-size: 18px;
+ }
+
+ /* CEO start  */
+ .ceo{
+    height: auto;
+ }
+ .ceo p{
+ font-size: 18px;
+ line-height: 20px;
+ }
+
+ /* cake start  */
+ .cake
+ {
+     width: 100%;
+     display: block;
+     padding: 30px;
+     margin: 0px 0px;
+     }
+ .cake_left{
+    width: 100%;
+    height: 400px;
+     margin: 10px 0px;
+ }
+ .cake_right{
+    width: 100%;
+    height: auto;
+     background: white;
+     border: none;
+     margin: 10px 0px;
+ }
+ .cake_top{
+     width: 100%;
+     display: block;
+    height: auto;
+ }
+ .top_left{
+    width: 100%;
+    height: 250px;
+    margin: 10px 0px;
+ }
+
+ .top_right{
+    width: 100%;
+    height: 250px;
+     margin: 10px 0px;
+ }
+ .cake_bottom{
+    width: 100%;
+    height: 250px;
+     margin: 10px 0px;    
+ }
+
+
+ /* Type start  */
+ .types{
+    width: 100%;
+    padding: 80px;
+    display: block;
+    margin: 10px 0px;
+}
+.hot{
+    /* width: 50%; */
+    width: 100%;
+    margin: 10px 0px;
+}
+.img_cont{
+    margin: 20px 0px;
+}
+
+/* baker start  */
+.baker{
+    display: block;
+}
+.baker_one{
+    width: 100%; 
+}
+.baker_two{
+    width: 100%;
+}
+
+/* party start  */
+.party{
+    width: 100%;
+    display: block;
+    padding: 70px;
+}
+.party_l{
+    width: 100%;
+    height: 800px;
+}
+.p_i_1{
+    height: 400px;
+}
+.p-con-1{
+        top: 420px;
+        padding: 30px;
+        height: auto;
+        border-radius: 10px;
+    }
+.p-con-1 h1{
+    margin-top: 50px;
+}
+.perty_r{
+    width: 100%;
+    height: auto;
+}
+.p_r{
+    width: 100%;
+    height: 565px;
+}
+
+.p_i_2{    
+    width: 100%;
+    height: 235px;
+}
+.p_i_3{
+    width: 100%;
+    height: 235px;
+}
+.p-con{
+    top: 250px;
+    padding: 30px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.p_button{
+}
+
+/* company start  */
+.comp{
+    flex-wrap: nowrap;
+}
+.partner{
+    width: 100%;
+    height: 90%;
+    background-size: 100% 100%;
+    background-position: center;
+}
+
+/* mapp start  */
+
+.map{
+    width: 100%;
+    height: 960px;
+    position: relative;
+}
+.map_img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 500px;
+}
+.location{
+    top: 25%;
+}
+
+.contect{
+    position: absolute;
+    top: 500px;
+    left: 0;
+    width: 100%;
+}
+ .contect button{
+    margin: 5px 33%;
+}
+
+
+    /* about  end  */
+    .aboutcon{
+        width: 100%;
+        display: block;
+    }
+    .aboutcon_l{
+        width: 100%;
+        height: 200xp;
+    }
+    .aboutcon_logo{
+        width: 100%;
+    }
+    .aboutcon_r{
+        width: 100%;
+    }
+    .subscribe{
+        height: 80px;
+        width: 100%;
+        border-radius: 0;
+        overflow: visible;
+    
+    }
+
+    .subscribe input {
+        position: absolute;
+        left: 0;
+        border-radius: 40px;
+        height: 30px;
+        width: 100%;
+        padding: 0px 10px;
+        border: none;
+    }
+    .subscribe input:focus{
+        outline: 1px solid #ee7560;
+
+    }
+    .subscribe button{
+        top: 50%;
+        left: 0;
+        width: 100%;
+        border: none;
+    }    
+    
+    /* footer start  */
+    footer{
+        display: block;
+    }
+    .pay{
+        width: 100%;
+    }
+    .pay_method{
+        height: 100px;
+    }
+    .work{
+        width: 100%;
+    }
+
+}
